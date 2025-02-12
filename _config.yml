@@ -31,9 +31,13 @@ github_username: jekyll
 
 # Build settings
 # If using GitHub Pages, use `remote_theme:` instead of `theme:`
-remote_theme: jekyll/minima
+remote_theme: piharpi/jekyll-klise
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
