@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: piharpi/jekyll-klise
+theme: jekyll-theme-klise
 plugins:
   - jekyll-feed
 
