@@ -26,8 +26,8 @@ description: >-
   Google search results) and in your feed.xml site description.
 
 # Set the correct URL and BaseURL (if hosting on GitHub Pages)
-url: "https://george-antony.github.io/" # Change to your GitHub username
-baseurl: "/blog" # Change to your GitHub repository name
+url: "https://George-Antony.github.io/" # Change to your GitHub username
+baseurl: "/George-Antony.github.io" # Change to your GitHub repository name
 
 twitter_username: jekyllrb
 github_username: jekyll
