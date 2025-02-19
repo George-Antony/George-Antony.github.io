@@ -5,7 +5,7 @@ date: 2025-02-19 14:27:00 +0000
 categories: business-analytics
 ---
 
-Hello! I’m George, a Master's graduate in Business Analytics from the University of Exeter. As I embark on my journey into the world of data, I want to share my experiences, insights and projects with you on this blog.
+Hi there!! I’m George, a Master's graduate in Business Analytics from the University of Exeter. As I embark on my journey into the world of data, I want to share my experiences, insights and projects with you on this blog.
 
 From the start of my studies, I was captivated by how data can unlock powerful insights and help solve complex business problems. Throughout my academic journey, I’ve learned to use data cleaning, data analysis and data visualisation to bring meaning to raw data. My projects have ranged from analysing global pollution trends to examining consumer behaviour in retail and I’ve seen firsthand how data can drive better decisions.
 
