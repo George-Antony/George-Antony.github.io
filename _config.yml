@@ -30,7 +30,7 @@ github_username: jekyll
 social_links:
   twitter: "https://twitter.com/your_twitter_username"  # Replace with your Twitter/X profile link
   github: "https://github.com/your_github_username"    # Replace with your GitHub profile link
-
+  rss: "/feed.xml"  # If you're using RSS, otherwise remove this line
 
 # Build settings
 remote_theme: jekyll/minima
