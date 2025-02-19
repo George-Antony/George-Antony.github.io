@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog! Here, I share my journey into the world of data, my insights into business strategies and my hands-on experiences with data analysis tools. Join me as I explore the power of data to make a difference.
 baseurl: "" # Leave this empty if not using a subpath
-url: "https://example.com" # Replace with your actual domain or leave as is for a local setup
+url: "https://george-antony.github.io/" # Replace with your actual domain or leave as is for a local setup
 twitter_username: jekyllrb
 github_username: jekyll
 
