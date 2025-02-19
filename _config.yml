@@ -27,6 +27,11 @@ url: "https://george-antony.github.io/" # Replace with your actual domain or lea
 twitter_username: jekyllrb
 github_username: jekyll
 
+social_links:
+  twitter: "https://twitter.com/your_twitter_username"  # Replace with your Twitter/X profile link
+  github: "https://github.com/your_github_username"    # Replace with your GitHub profile link
+
+
 # Build settings
 remote_theme: jekyll/minima
 plugins:
