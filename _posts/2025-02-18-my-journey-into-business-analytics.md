@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "My Journey into Business Analytics: The Beginning of a New Chapter"
-date:   2025-02-19 14:27:20 +0000
-categories: business-analytics personal
+date: 2025-02-19 14:27:00 +0000
+categories: business-analytics
 ---
 
 Hello! I’m George, a Master's graduate in Business Analytics from the University of Exeter. As I embark on my journey into the world of data, I want to share my experiences, insights and projects with you on this blog.
