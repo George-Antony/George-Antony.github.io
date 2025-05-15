@@ -7,7 +7,7 @@ categories: science
 
 # Mach Speed, No Boom: The Silent Revolution in Supersonic Flight
 
-## Introduction
+## Intro
 
 For over a century, aviation has been defined by one relentless pursuit: speed. From the Wright brothers’ fragile biplane to today’s ultra-efficient jets, humans have been obsessed with flying faster and farther.
 
