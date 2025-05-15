@@ -7,7 +7,7 @@ categories: science
 
 # Mach Speed, No Boom: The Silent Revolution in Supersonic Flight
 
-## Intro
+## Introduction
 
 For over a century, aviation has been defined by one relentless pursuit: speed. From the Wright brothers’ fragile biplane to today’s ultra-efficient jets, humans have been obsessed with flying faster and farther.
 
@@ -27,7 +27,7 @@ Supersonic refers to anything traveling faster than the speed of sound - Mach 1 
 
 Breaking the sound barrier once felt like breaching the edge of physics. Aircraft approaching Mach 1 would experience violent turbulence and shockwaves, earning the barrier a near-mythical status - until October 14, 1947, when Chuck Yeager flew the Bell X-1 at Mach 1.06 and shattered that belief forever.
 
-![Bell X-1 Glamorous Glennis aircraft](/boom_supersonic/Figure_1.jpg)
+![Bell X-1 Glamorous Glennis aircraft](/_posts/boom_supersonic/Figure_1.jpg)
 **Figure 1:** Bell X-1 Glamorous Glennis aircraft _(Source: Wikipedia)_
 
 ![Chuck Yeager in Bell X-1 Glamorous Glennis aircraft](/boom_supersonic/Figure_2.jpg)
