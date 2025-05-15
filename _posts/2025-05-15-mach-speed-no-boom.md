@@ -89,6 +89,7 @@ Boom Supersonic is developing technology for quiet supersonic travel. Their [Boo
 **Figure 7:** Redirecting Shock Waves - Mach Cutoff _(Souce: Boom Supersonic)_
 
 ![Boom’s XB-1 aircraft](/boom_supersonic/Figure_8.jpg)
+
 **Figure 8:** Boom’s XB-1 aircraft _(Souce: Boom Supersonic)_
 
 In January 2025, Boom’s prototype aircraft, the XB-1, successfully demonstrated this capability. During test flights, the XB-1 broke the sound barrier multiple times without producing ground-level booms - an extraordinary achievement in the pursuit of quiet, high-speed travel.
@@ -96,6 +97,7 @@ In January 2025, Boom’s prototype aircraft, the XB-1, successfully demonstrate
 ## Conclusion
 
 ![Boom’s Overture aircraft](/boom_supersonic/Figure_9.jpg)
+
 **Figure 9:** Boom’s Overture aircraft _(Souce: Boom Supersonic)_
 
 Boom Supersonic’s Overture aircraft represents the future of fast, sustainable air travel, with commercial service expected to begin by the early 2030s. Designed to cruise at Mach 1.7 over water - twice the speed of today’s airliners - and up to 50% faster over land using advanced noise-reduction technology, Overture aims to dramatically cut travel times on the world’s busiest routes. For instance, a transatlantic flight from New York to London could drop from 7 hours to just 3.5, while popular overland trips like Los Angeles to New York may shrink from about 6 hours to just 4. As this technology matures, the dream of boomless, efficient supersonic travel is becoming a tangible reality, reshaping not just how we fly - but how we experience the world.
